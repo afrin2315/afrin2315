@@ -231,23 +231,6 @@ Python-based interactive game project — exploring game logic, state management
 | 🔬 EDA for Machine Learning | Certisured, SVIT | [![View](https://img.shields.io/badge/View-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1X_fI9ExbNY_Mi4yLdW2WfBqYY-DpkDGI/view?usp=drivesdk) |
 | 🧠 Intuition Building for ML & DL | Analogica, SVIT | [![View](https://img.shields.io/badge/View-4285F4?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1hy6chmDGJucVJDgua-939Q1-E9i7D9TY/view?usp=drivesdk) |
 
----
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=afrin2315&show_icons=true&theme=tokyonight&hide=stars,prs,issues,contribs&hide_border=true&custom_title=Afrin%20Kousar&count_private=true&include_all_commits=true&show=reviews,discussions_started" />
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrin2315&layout=donut&langs_count=6&theme=tokyonight&hide_border=true&hide=c%2B%2B,c,cython,fortran,roff,powershell" />
-
-</div>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=afrin2315&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity)
-
-</div>
-
----
 
 ## 🏅 Achievements
 

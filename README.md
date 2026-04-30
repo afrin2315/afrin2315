@@ -1,7 +1,9 @@
 <h1 align="center">Afrin Kousar</h1>
 
 <p align="center">
-  AI/ML Engineer · Full-Stack AI Developer · <a href="https://drive.google.com/file/d/1oOFQPDGsEmyPqTTP1FbleCLaijqveJxw/view?usp=drivesdk">Indian Patent Holder, 2025</a>
+  <a href="https://afrin-kousar.netlify.app">
+    <img src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=400&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=720&height=42&lines=Building+intelligence+that+ships.;AI%2FML+Engineer+%C2%B7+Full-Stack+AI+Developer;Indian+Patent+Holder+%E2%80%94+2025;Currently+%40+Rooman+Technologies" alt="What I do" />
+  </a>
 </p>
 
 <p align="center">
@@ -10,7 +12,7 @@
   <a href="mailto:afrinkousar98@gmail.com">afrinkousar98@gmail.com</a>
 </p>
 
----
+<br/>
 
 I build AI systems that don't stop at the notebook — research, modeling, full-stack engineering, and live deployment. Currently shipping LLM and RAG products as an **AI Product Developer** at **Rooman Technologies**, contributing to [BluLinked](https://blulinked.in) — a blue-collar workforce hiring platform.
 
@@ -44,6 +46,10 @@ A hybrid NLP pipeline — DistilBERT (91% accuracy primary classifier) + LinearS
 
 ## Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,fastapi,flask,docker,react,tailwind,postgres,mongodb,git&theme=light&perline=12" alt="Tech stack" />
+</p>
+
 - **AI/ML** — Python, scikit-learn, TensorFlow, PyTorch, XGBoost, DenseNet121, Grad-CAM
 - **NLP & GenAI** — DistilBERT, Transformers, LangChain, Gemini, RAG, FAISS, ChromaDB
 - **Backend** — FastAPI, Flask, REST, WebSockets, Docker, Gunicorn
@@ -59,10 +65,18 @@ A hybrid NLP pipeline — DistilBERT (91% accuracy primary classifier) + LinearS
 
 ---
 
+## Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=afrin2315&theme=minimal&hide_border=true&bg_color=FBF9F4&color=14110F&line=6C63FF&point=4ECDC4&area=true&area_color=6C63FF" alt="Contribution activity graph" />
+</p>
+
 <p align="center">
   <a href="https://github.com/afrin2315">
-    <img src="https://github-readme-stats.vercel.app/api?username=afrin2315&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=14110f&text_color=3a3530&icon_color=6c63ff" alt="GitHub stats" />
+    <img src="https://streak-stats.demolab.com?user=afrin2315&theme=transparent&hide_border=true&background=FBF9F4&stroke=14110F&ring=6C63FF&fire=4ECDC4&currStreakLabel=14110F&sideLabels=14110F&dates=6F655C" alt="GitHub streak" />
   </a>
 </p>
 
-<p align="center"><sub>"From data to deployment — building AI that works in the real world."</sub></p>
+---
+
+<p align="center"><sub><i>"From data to deployment — building AI that works in the real world."</i></sub></p>

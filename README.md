@@ -82,11 +82,64 @@ Full project list on the [portfolio](https://afrin-kousar.netlify.app).
 
 ---
 
-## 🎯 Achievements
+## ✨ Milestones
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <h2>🏆&nbsp;&nbsp;1</h2>
+      <b>Indian Patent</b><br/>
+      <sub>Granted, 2025</sub>
+    </td>
+    <td align="center" width="33%">
+      <h2>91<sup>%</sup></h2>
+      <b>DistilBERT accuracy</b><br/>
+      <sub>Emotion classification (7 classes)</sub>
+    </td>
+    <td align="center" width="33%">
+      <h2>~30–40<sup>%</sup></h2>
+      <b>RAG answer relevance</b><br/>
+      <sub>Improvement on retrieval pipelines</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h2>80<sup>+</sup></h2>
+      <b>Voice-agent questions</b><br/>
+      <sub>Across 10+ occupations</sub>
+    </td>
+    <td align="center">
+      <h2>5</h2>
+      <b>Live deployments</b><br/>
+      <sub>HF Spaces · Vercel · Railway · Render</sub>
+    </td>
+    <td align="center">
+      <h2>9.2<sub>/10</sub></h2>
+      <b>CGPA</b><br/>
+      <sub>B.E. CSE (AI &amp; ML), SVIT</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎓 Certifications
 
 <p align="center">
-  <a href="https://github.com/afrin2315">
-    <img src="https://github-profile-trophy.vercel.app/?username=afrin2315&theme=flat&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&title=Patent,Followers,Commits,Issues,PullRequest,Repositories,Stars" alt="GitHub achievements" />
+  <a href="https://drive.google.com/file/d/1Mht4NQuwqsVAj4hRFKhs-Z0vb87wFUZJ/view?usp=drivesdk">
+    <img src="https://img.shields.io/badge/Deep_Learning-NPTEL_·_IIT_Kanpur-14110F?style=for-the-badge&logo=googlescholar&logoColor=FBF9F4" alt="NPTEL Deep Learning" />
+  </a>
+  <a href="https://drive.google.com/file/d/1BJnSHoe9wD6saVomd9q86K_-0tnUKAvn/view?usp=drivesdk">
+    <img src="https://img.shields.io/badge/AI%2FML_Foundations-Infosys_Springboard-007CC3?style=for-the-badge&logo=infosys&logoColor=FBF9F4" alt="Infosys Pragati" />
+  </a>
+  <a href="https://drive.google.com/file/d/1q9YJYUMaPb_xKZ0VkQ2b1BIadF_1WIFK/view?usp=drivesdk">
+    <img src="https://img.shields.io/badge/Data_Analytics-Sonata_Software-6C63FF?style=for-the-badge&logo=databricks&logoColor=FBF9F4" alt="Sonata Software" />
+  </a>
+  <a href="https://drive.google.com/file/d/1X_fI9ExbNY_Mi4yLdW2WfBqYY-DpkDGI/view?usp=drivesdk">
+    <img src="https://img.shields.io/badge/EDA_for_ML-Certisured-4ECDC4?style=for-the-badge&logo=jupyter&logoColor=14110F" alt="Certisured" />
+  </a>
+  <a href="https://drive.google.com/file/d/1hy6chmDGJucVJDgua-939Q1-E9i7D9TY/view?usp=drivesdk">
+    <img src="https://img.shields.io/badge/ML_%26_DL_Intuition-Analogica-FF7EA3?style=for-the-badge&logo=tensorflow&logoColor=FBF9F4" alt="Analogica" />
   </a>
 </p>
 

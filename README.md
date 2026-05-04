@@ -67,10 +67,13 @@ Full project list on the [portfolio](https://afrin-kousar.netlify.app).
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,fastapi,flask,docker,react,tailwind,postgres,mongodb,git,vercel,aws&theme=light&perline=14" alt="Tech stack" />
 </p>
 
-- **AI/ML** — Python, scikit-learn, TensorFlow, PyTorch, XGBoost, DenseNet121, Grad-CAM
-- **NLP & GenAI** — DistilBERT, Transformers, LangChain, Gemini, RAG, FAISS, ChromaDB
-- **Backend** — FastAPI, Flask, REST, WebSockets, Docker, Gunicorn
-- **Frontend & Deploy** — React, Tailwind, Vercel, Railway, Hugging Face Spaces, AWS
+- **Programming** — Python, SQL, JavaScript
+- **ML & Deep Learning** — Scikit-learn, TensorFlow, PyTorch, XGBoost, DenseNet121, Grad-CAM, Fine-tuning
+- **NLP & Generative AI** — Transformers, DistilBERT, LangChain, Gemini API, RAG, AI Agents, Embeddings, Prompt Engineering
+- **Backend & APIs** — FastAPI, Flask, REST, WebSockets, Gunicorn, Streamlit
+- **Frontend** — React, Tailwind, HTML, CSS, Web Speech API
+- **Databases & Data** — PostgreSQL, SQLite, MongoDB, FAISS, ChromaDB, Pandas, NumPy, Matplotlib, Seaborn, Plotly
+- **Cloud & DevOps** — AWS (EC2, S3, IAM), Docker, Git, GitHub, CI/CD, Vercel, Railway, Hugging Face Spaces, Firebase, Linux, Windows, PowerShell
 
 ---
 
